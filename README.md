@@ -14,7 +14,7 @@ This repo serves as my organized workspace for all course requirements, includin
 ## 👤 Student Information
 
 - Name: VIRGILIO G. COSTALES JR
-- Course/Section: BSIT-4j
+- Course/Section: BSIT-4J
 - Instructor: JENKIELYN C. TORRES
 - School Year: 2026-2027
 
