@@ -23,9 +23,13 @@ This repo serves as my organized workspace for all course requirements, includin
 cloud-computing-course/
 
 ├── activities/
+
 ├── notes/
+
 ├── projects/
+
 ├── reflections/
+
 └── README.md
 
 
